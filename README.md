@@ -1,4 +1,4 @@
-# KLOZ STUDIO — Website starter
+# KLOZ STUDIO — Website starter 
 
 A responsive dark-purple studio website designed for GitHub Pages. It includes a custom KLOZ visual identity, browser-tab favicon, game concept cards, a media archive, a devlog/idea log, studio information, and contact section.
 
